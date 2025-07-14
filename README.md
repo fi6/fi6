@@ -41,15 +41,6 @@
 
 ---
 
-## 📫 Contact & Links
-
-- Email: `your.email@domain.com`
-- [Peking University](https://www.pku.edu.cn/)
-- [LinkedIn](https://www.linkedin.com/in/your-profile)
-- [Portfolio](https://yourportfolio.com)
-
----
-
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
 </p>
