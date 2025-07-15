@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Peking%20University-AI%20%26%20Robotics-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/AI%20%26%20Robotics-Peking%20University-blue?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Python-Expert-green?style=for-the-badge" />
   <img src="https://img.shields.io/badge/C++-Proficient-blue?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Isaac%20Sim-blue?style=for-the-badge" />
