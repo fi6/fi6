@@ -4,11 +4,9 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/AI%20%26%20Robotics-Peking%20University-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Peking%20University-AI%20%26%20Robotics-blue?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Python-Expert-green?style=for-the-badge" />
   <img src="https://img.shields.io/badge/C++-Proficient-blue?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/ROS-ROS2-orange?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Isaac%20Sim-Platform-yellow?style=for-the-badge" />
 </p>
 
 ---
@@ -27,7 +25,7 @@
 | Programming      | Python (Expert), C++ (Proficient)         |
 | Robotics         | ROS, ROS2                                 |
 | Simulation Tools | Isaac Sim , MuJoCo                        |
-| AI/ML Frameworks | PyTorch, TensorFlow, OpenCV               |
+| AI/ML Frameworks | PyTorch                                   |
 | Other            | Git, Linux, VSCode                        |
 
 ---
@@ -37,7 +35,7 @@
 - 🌸 ACG    
 - ⛷️ Skiing  
 - 🏎️ Karting  
-- 🎮 Console gaming (Persona, Monster Hunter, Pokemon, etc.)  
+- 🎮 Console gaming (Pokemon, Persona, Monster Hunter, etc.)  
 
 ---
 
